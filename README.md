@@ -1,8 +1,8 @@
 - ## 仓库说明：
 
-    - ### basic_python_notes: Python3基础编程思维导图、笔记及代码（已完结🎉）
-    - ### python-bigdata: 大数据思维导图、笔记及代码，刷题错题集（每周五到六天更新🤓）
-    - ### leetcode_notes: LeetCode刷题笔记（有闲暇余力时更新😋）
+    - ### basic_python_notes: Python3基础编程思维导图、笔记及代码
+    - ### python-bigdata: 大数据思维导图、笔记及代码，刷题错题集
+    - ### leetcode_notes: LeetCode刷题笔记
 - #### 个人邮箱：zhouzhengyuan88@gmail.com
 - 若笔记中有任何错误，遗漏，图片显示不全等问题，请邮件联系我进行改进谢谢！
 
